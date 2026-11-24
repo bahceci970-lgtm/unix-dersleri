@@ -1,0 +1,1 @@
+# Unix Sistem Yonetimi Notlarim 
